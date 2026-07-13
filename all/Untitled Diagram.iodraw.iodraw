@@ -25,7 +25,7 @@
         <mxCell id="T8WKfAatBCNieZ4KQd6I-8" value="Mutation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="15" y="510" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T8WKfAatBCNieZ4KQd6I-9" value="Crossover" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="T8WKfAatBCNieZ4KQd6I-9" value="Reproduction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="15" y="540" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
