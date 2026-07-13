@@ -25,20 +25,17 @@
         <mxCell id="T8WKfAatBCNieZ4KQd6I-5" value="Parent Selection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-350" y="110" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T8WKfAatBCNieZ4KQd6I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="T8WKfAatBCNieZ4KQd6I-6" target="T8WKfAatBCNieZ4KQd6I-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-6" value="Generate Selection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-170" y="110" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-7" value="Crossover" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-695" y="290" width="100" height="20" as="geometry" />
+          <mxGeometry x="-130" y="140" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-8" value="Mutation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-695" y="320" width="100" height="20" as="geometry" />
+          <mxGeometry x="-130" y="170" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-9" value="Reproduction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-695" y="350" width="100" height="20" as="geometry" />
+          <mxGeometry x="-130" y="200" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1" source="T8WKfAatBCNieZ4KQd6I-10" target="T8WKfAatBCNieZ4KQd6I-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
