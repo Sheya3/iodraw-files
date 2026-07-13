@@ -16,7 +16,7 @@
         <mxCell id="T8WKfAatBCNieZ4KQd6I-5" value="Parent Selection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-10" y="400" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T8WKfAatBCNieZ4KQd6I-6" value="Parent Selection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="T8WKfAatBCNieZ4KQd6I-6" value="Generate Selection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-10" y="450" width="150" height="120" as="geometry" />
         </mxCell>
       </root>
