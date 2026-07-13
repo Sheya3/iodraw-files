@@ -79,13 +79,13 @@
           <mxGeometry x="280" y="370" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-25" value="NIQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="410" width="30" height="20" as="geometry" />
+          <mxGeometry x="220" y="400" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-26" value="W" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="30" height="20" as="geometry" />
+          <mxGeometry x="260" y="400" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-27" value="MS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="410" width="30" height="20" as="geometry" />
+          <mxGeometry x="300" y="400" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T8WKfAatBCNieZ4KQd6I-23" target="T8WKfAatBCNieZ4KQd6I-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -100,6 +100,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T8WKfAatBCNieZ4KQd6I-25" target="T8WKfAatBCNieZ4KQd6I-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="490" as="sourcePoint" />
+            <mxPoint x="300" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8WKfAatBCNieZ4KQd6I-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="490" as="sourcePoint" />
             <mxPoint x="300" y="440" as="targetPoint" />
