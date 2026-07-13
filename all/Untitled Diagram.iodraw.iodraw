@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T8WKfAatBCNieZ4KQd6I-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="35" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="35" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-3" value="Population initialization" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-10" y="300" width="150" height="30" as="geometry" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="T8WKfAatBCNieZ4KQd6I-5" value="Parent Selection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-10" y="400" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8WKfAatBCNieZ4KQd6I-6" value="Parent Selection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry y="410" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
