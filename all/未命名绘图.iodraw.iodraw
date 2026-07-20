@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-5" value="Genetic Programming" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="530" width="860" height="260" as="geometry" />
+          <mxGeometry x="-800" y="750" width="860" height="260" as="geometry" />
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-820" y="1400" width="920" height="650" as="geometry" />
@@ -87,7 +87,7 @@
           <mxGeometry x="190" y="2475" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=129.57;notch=0;rounded=0;strokeColor=default;strokeWidth=8;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="210" y="590" width="380" height="150" as="geometry" />
+          <mxGeometry x="210" y="810" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=129.57;notch=0;rounded=0;strokeColor=default;strokeWidth=8;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="210" y="2795" width="380" height="150" as="geometry" />
