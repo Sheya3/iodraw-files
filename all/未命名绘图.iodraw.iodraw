@@ -27,7 +27,7 @@
           <mxGeometry x="-240" y="650" width="860" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-11" value="Training&amp;nbsp; Instance" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1305" width="860" height="170" as="geometry" />
+          <mxGeometry x="-240" y="2130" width="860" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
