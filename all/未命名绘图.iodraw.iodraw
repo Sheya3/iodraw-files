@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-5" value="Genetic Programming" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1020" width="860" height="260" as="geometry" />
+          <mxGeometry x="-650" y="870" width="860" height="260" as="geometry" />
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-650" y="1360" width="920" height="650" as="geometry" />
@@ -36,7 +36,7 @@
           <mxGeometry x="-660" y="2220" width="860" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-11" value="Training&amp;nbsp; Instance" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="240" width="860" height="170" as="geometry" />
+          <mxGeometry x="-660" y="570" width="860" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
