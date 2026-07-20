@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Dw-9FYvlUg6OTWTNdaRr">
-    <mxGraphModel dx="3000" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4087" dy="2650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,11 +12,6 @@
             <mxPoint x="3000" y="1160" as="sourcePoint" />
             <mxPoint x="3080" y="1160" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xp8G25x5AMthkStCBCnL-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xp8G25x5AMthkStCBCnL-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-800" y="999.666666666667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-5" value="Genetic Programming" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
@@ -50,6 +45,9 @@
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-11" value="Training&amp;nbsp; Instance" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
           <mxGeometry x="-660" y="570" width="860" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8G25x5AMthkStCBCnL-21" value="Test Instance" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="2230" width="860" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
