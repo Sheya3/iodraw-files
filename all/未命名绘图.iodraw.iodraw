@@ -15,7 +15,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xp8G25x5AMthkStCBCnL-5" value="Genetic Programming" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="1340" width="860" height="260" as="geometry" />
+          <mxGeometry x="-1100" y="1230" width="860" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8G25x5AMthkStCBCnL-6" value="Genetic Programming" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="780" width="860" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
