@@ -35,7 +35,7 @@
         <mxCell id="xp8G25x5AMthkStCBCnL-10" value="Test Instance" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=100;fontColor=default;fillColor=default;strokeWidth=8;" vertex="1" parent="1">
           <mxGeometry x="-660" y="2220" width="860" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xp8G25x5AMthkStCBCnL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xp8G25x5AMthkStCBCnL-11" target="xp8G25x5AMthkStCBCnL-14">
+        <mxCell id="xp8G25x5AMthkStCBCnL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=8;" edge="1" parent="1" source="xp8G25x5AMthkStCBCnL-11" target="xp8G25x5AMthkStCBCnL-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-830" y="655" />
