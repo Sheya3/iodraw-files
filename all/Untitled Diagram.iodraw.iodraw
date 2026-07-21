@@ -230,7 +230,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-21" value="Routing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-21" value="Routing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#ABABAB;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-360" y="240" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
@@ -349,7 +349,7 @@
             <mxPoint y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-74" value="Routing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-74" value="Routing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#ABABAB;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-200" y="79" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-83" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0JFpaF27t4L-leoYE2ln-22" target="0JFpaF27t4L-leoYE2ln-11">
