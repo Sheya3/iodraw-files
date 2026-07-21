@@ -344,7 +344,7 @@
         <mxCell id="0JFpaF27t4L-leoYE2ln-73" value="ship 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-70">
           <mxGeometry x="5.71" y="4" width="40" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0JFpaF27t4L-leoYE2ln-74">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.408;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0JFpaF27t4L-leoYE2ln-74" target="0JFpaF27t4L-leoYE2ln-95">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="120" as="targetPoint" />
           </mxGeometry>
@@ -378,6 +378,9 @@
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-91" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-237" y="160" width="100" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="0JFpaF27t4L-leoYE2ln-95" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="160" width="100" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
