@@ -229,7 +229,7 @@
         <mxCell id="0JFpaF27t4L-leoYE2ln-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-241" y="228" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-26" value="" style="group;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" connectable="0" parent="1">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-26" value="" style="group;fontFamily=Times New Roman;align=center;fontSize=15;rotation=90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-231" y="188" width="80" height="250" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-26">
@@ -339,7 +339,7 @@
             <mxPoint x="-11" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-74" value="Routing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-74" value="Sequencing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-161" y="157" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-83" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;align=center;fontSize=15;" edge="1" parent="1" source="0JFpaF27t4L-leoYE2ln-22">
