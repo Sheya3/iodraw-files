@@ -234,14 +234,14 @@
         <mxCell id="0JFpaF27t4L-leoYE2ln-29" value="ship 9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-26">
           <mxGeometry x="5.71" y="4" width="40" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-42" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-42" value="" style="group;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-200" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-43" value="tugboat 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-42">
-          <mxGeometry width="51.42857142857144" height="30" as="geometry" />
+        <mxCell id="0JFpaF27t4L-leoYE2ln-43" value="tugboat 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-42">
+          <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-44" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-42">
-          <mxGeometry x="51.42857142857144" width="28.57142857142858" height="30" as="geometry" />
+        <mxCell id="0JFpaF27t4L-leoYE2ln-44" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-42">
+          <mxGeometry x="60" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
