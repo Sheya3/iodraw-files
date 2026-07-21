@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="EN5jJLvCOs70Ou6hMQfv">
-    <mxGraphModel dx="2333" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2469" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
         <mxCell id="0JFpaF27t4L-leoYE2ln-28" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-26">
           <mxGeometry x="51.42857142857144" width="28.57142857142858" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-29" value="ship 9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-26">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-29" value="ship 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-26">
           <mxGeometry x="5.71" y="4" width="40" height="22" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-42" value="" style="group;" vertex="1" connectable="0" parent="1">
