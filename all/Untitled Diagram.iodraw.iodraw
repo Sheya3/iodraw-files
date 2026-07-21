@@ -349,7 +349,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-81" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-81" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.438;exitY=0.82;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0JFpaF27t4L-leoYE2ln-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-353" y="180" as="sourcePoint" />
             <mxPoint x="-303" y="130" as="targetPoint" />
