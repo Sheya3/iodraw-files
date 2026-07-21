@@ -258,7 +258,7 @@
         <mxCell id="0JFpaF27t4L-leoYE2ln-50" value="ship 9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-47">
           <mxGeometry x="5.71" y="4" width="40" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-51" value="" style="group;" vertex="1" connectable="0" parent="1">
+        <mxCell id="0JFpaF27t4L-leoYE2ln-51" value="" style="group;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-20" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-52" value="tugboat 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-51">
