@@ -304,7 +304,7 @@
           <mxGeometry x="5.71" y="4" width="40" height="22" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-66" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-130" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="-140" y="330" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-66">
           <mxGeometry width="51.42857142857144" height="30" as="geometry" />
@@ -313,6 +313,18 @@
           <mxGeometry x="51.42857142857144" width="28.57142857142858" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-69" value="ship 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-66">
+          <mxGeometry x="5.71" y="4" width="40" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="0JFpaF27t4L-leoYE2ln-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-140" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JFpaF27t4L-leoYE2ln-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-70">
+          <mxGeometry width="51.42857142857144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JFpaF27t4L-leoYE2ln-72" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-70">
+          <mxGeometry x="51.42857142857144" width="28.57142857142858" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JFpaF27t4L-leoYE2ln-73" value="ship 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="0JFpaF27t4L-leoYE2ln-70">
           <mxGeometry x="5.71" y="4" width="40" height="22" as="geometry" />
         </mxCell>
       </root>
