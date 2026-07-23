@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="EN5jJLvCOs70Ou6hMQfv">
-    <mxGraphModel dx="1772" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1951" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,15 +240,6 @@
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-29" value="ship 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;align=center;fontSize=15;" parent="0JFpaF27t4L-leoYE2ln-26" vertex="1">
           <mxGeometry x="5.71" y="54" width="40" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-42" value="" style="group;fontFamily=Times New Roman;align=center;fontSize=15;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-31" y="238" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-43" value="tugboat 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Times New Roman;align=center;fontSize=15;" parent="0JFpaF27t4L-leoYE2ln-42" vertex="1">
-          <mxGeometry width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0JFpaF27t4L-leoYE2ln-44" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Times New Roman;align=center;fontSize=15;" parent="0JFpaF27t4L-leoYE2ln-42" vertex="1">
-          <mxGeometry x="60" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0JFpaF27t4L-leoYE2ln-47" value="" style="group;fontFamily=Times New Roman;align=center;fontSize=15;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-231" y="308" width="80" height="40" as="geometry" />
