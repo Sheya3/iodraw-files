@@ -39,6 +39,9 @@
         <mxCell id="99Gx7TbVx763kGoaP6es-4" value="*" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=28;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="8" y="260" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="99Gx7TbVx763kGoaP6es-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="99Gx7TbVx763kGoaP6es-5" target="99Gx7TbVx763kGoaP6es-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="99Gx7TbVx763kGoaP6es-5" value="-" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=28;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="55" y="260" width="40" height="40" as="geometry" />
         </mxCell>
@@ -80,10 +83,10 @@
             <mxPoint x="80" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="99Gx7TbVx763kGoaP6es-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;NIQ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="99Gx7TbVx763kGoaP6es-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;NIQ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-30" y="310" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="99Gx7TbVx763kGoaP6es-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PT&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="99Gx7TbVx763kGoaP6es-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PT&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="20" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="99Gx7TbVx763kGoaP6es-20" value="-" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=28;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -102,10 +105,10 @@
             <mxPoint x="150" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="99Gx7TbVx763kGoaP6es-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PT&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="99Gx7TbVx763kGoaP6es-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PT&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="70" y="310" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="99Gx7TbVx763kGoaP6es-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MWT&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="99Gx7TbVx763kGoaP6es-32" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;MWT&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="120" y="310" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
