@@ -98,12 +98,7 @@
           <mxGeometry x="12" y="393" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="99Gx7TbVx763kGoaP6es-26" value="&lt;font size=&quot;4&quot;&gt;......&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="90" y="270" width="50" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="99Gx7TbVx763kGoaP6es-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;align=center;verticalAlign=middle;" edge="1" parent="1" source="99Gx7TbVx763kGoaP6es-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="260" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="130" y="208" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="99Gx7TbVx763kGoaP6es-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;align=center;verticalAlign=middle;" edge="1" parent="1" source="99Gx7TbVx763kGoaP6es-11">
           <mxGeometry relative="1" as="geometry">
