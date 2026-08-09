@@ -233,7 +233,7 @@
           <mxGeometry x="-363" y="215" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UCWrPTLW-vSLFa0LU5uO-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="110" width="90" height="30" as="geometry" />
+          <mxGeometry x="-340" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
