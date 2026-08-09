@@ -212,20 +212,12 @@
         </mxCell>
         <mxCell id="99Gx7TbVx763kGoaP6es-85" value="" style="endArrow=none;html=1;rounded=0;fontSize=28;align=center;verticalAlign=middle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="210" as="sourcePoint" />
-            <mxPoint x="-170" y="190" as="targetPoint" />
+            <mxPoint x="-40" y="210" as="sourcePoint" />
+            <mxPoint x="-70" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="99Gx7TbVx763kGoaP6es-86" value="&lt;font size=&quot;4&quot;&gt;......&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-200" y="256" width="50" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="99Gx7TbVx763kGoaP6es-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="99Gx7TbVx763kGoaP6es-66">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-110" y="140" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="99Gx7TbVx763kGoaP6es-92" value="&lt;font size=&quot;4&quot;&gt;......&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="160" width="50" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
