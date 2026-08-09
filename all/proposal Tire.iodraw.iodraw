@@ -236,7 +236,7 @@
         <mxCell id="UCWrPTLW-vSLFa0LU5uO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCWrPTLW-vSLFa0LU5uO-4" target="UCWrPTLW-vSLFa0LU5uO-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UCWrPTLW-vSLFa0LU5uO-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UCWrPTLW-vSLFa0LU5uO-17">
+        <mxCell id="UCWrPTLW-vSLFa0LU5uO-24" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UCWrPTLW-vSLFa0LU5uO-17">
           <mxGeometry x="0.3782" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -257,7 +257,7 @@
           <mxGeometry x="-239" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UCWrPTLW-vSLFa0LU5uO-16" value="Output the Best Individual" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-614" y="177.5" width="110" height="45" as="geometry" />
+          <mxGeometry x="-640" y="177.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UCWrPTLW-vSLFa0LU5uO-18" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;font size=&quot;3&quot;&gt;The Searched Individual:&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="110" width="180" height="30" as="geometry" />
