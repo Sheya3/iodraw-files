@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UCWrPTLW-vSLFa0LU5uO-28" value="Guided the Evolution Process" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="UCWrPTLW-vSLFa0LU5uO-22">
+        <mxCell id="UCWrPTLW-vSLFa0LU5uO-28" value="Guided the Evolution Process" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="UCWrPTLW-vSLFa0LU5uO-22">
           <mxGeometry x="0.1134" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
