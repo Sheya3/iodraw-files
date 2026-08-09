@@ -202,8 +202,8 @@
         <mxCell id="99Gx7TbVx763kGoaP6es-98" value="&lt;font size=&quot;4&quot;&gt;......&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="99Gx7TbVx763kGoaP6es-102" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="170" width="100" height="70" as="geometry" />
+        <mxCell id="99Gx7TbVx763kGoaP6es-102" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=20.33;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
