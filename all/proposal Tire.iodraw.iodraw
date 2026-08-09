@@ -279,12 +279,6 @@
         <mxCell id="UCWrPTLW-vSLFa0LU5uO-27" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Be Recorded&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" parent="UjI6MBBQW2yydfyBQZ17-1" vertex="1">
           <mxGeometry x="720" y="70" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V3V4iGZ13lmO-EQplATq-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="350" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="V3V4iGZ13lmO-EQplATq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="430" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
