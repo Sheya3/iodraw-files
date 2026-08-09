@@ -220,6 +220,9 @@
         <mxCell id="UCWrPTLW-vSLFa0LU5uO-1" value="Initialisation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-580" y="180" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UCWrPTLW-vSLFa0LU5uO-2" value="Initialisation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-458" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
