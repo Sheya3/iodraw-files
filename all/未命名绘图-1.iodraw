@@ -607,7 +607,7 @@
           <mxGeometry x="-2824" y="1028" width="70" height="24" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-142" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3215" y="730" width="172" height="40" as="geometry" />
+          <mxGeometry x="-3220" y="730" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-139" value="Job n" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-142">
           <mxGeometry x="65" y="18" width="40" height="22" as="geometry" />
