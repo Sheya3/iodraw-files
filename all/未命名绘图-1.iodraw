@@ -607,6 +607,9 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-141" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;...&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=27;labelBackgroundColor=none;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-142">
           <mxGeometry x="77" width="95" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gdlHOr32soQHPAhIjgJu-143" value="Job n" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-3148" y="758" width="40" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
