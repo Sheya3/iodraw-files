@@ -590,7 +590,7 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-218" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Partical Cantt Chart of Scheduling Plan&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2560" y="750" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-224" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="gdlHOr32soQHPAhIjgJu-224" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2560" y="800" width="375.75" height="175.29999999999995" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=#333333;strokeColor=none;fillStyle=zigzag-line;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-224">
