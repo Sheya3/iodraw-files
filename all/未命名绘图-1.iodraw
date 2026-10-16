@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="EN5jJLvCOs70Ou6hMQfv">
-    <mxGraphModel dx="4401" dy="132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="4595" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,11 +435,6 @@
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-86" value="Routing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-3075" y="904" width="100" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-125" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;align=center;fontSize=15;" edge="1" parent="1" source="gdlHOr32soQHPAhIjgJu-126">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2701" y="806" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-126" value="Sequencing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-2805.88" y="770" width="109" height="26" as="geometry" />
