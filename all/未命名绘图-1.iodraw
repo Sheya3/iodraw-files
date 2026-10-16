@@ -584,7 +584,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-215" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Finished operation&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-220">
+        <mxCell id="gdlHOr32soQHPAhIjgJu-215" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Finished Operation&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-220">
           <mxGeometry x="431.8000000000002" y="341.5999999999999" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-218" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Partical Cantt Chart of Scheduling Plan&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
