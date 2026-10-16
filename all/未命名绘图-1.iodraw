@@ -512,6 +512,12 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-164" value="&lt;i&gt;O&lt;sub&gt;22&lt;/sub&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-3004" y="1058" width="45" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="gdlHOr32soQHPAhIjgJu-165" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2588.5" y="952" as="sourcePoint" />
+            <mxPoint x="-2538.5" y="902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
