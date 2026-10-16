@@ -634,7 +634,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-126" value="Sequencing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-2912.5" y="754" width="115" height="26" as="geometry" />
+          <mxGeometry x="-2929.5" y="754" width="115" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-211" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gdlHOr32soQHPAhIjgJu-149">
           <mxGeometry relative="1" as="geometry">
