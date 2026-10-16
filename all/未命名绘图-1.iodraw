@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="EN5jJLvCOs70Ou6hMQfv">
-    <mxGraphModel dx="4713" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="1" shadow="0">
+    <mxGraphModel dx="4973" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -702,7 +702,7 @@
           <mxGeometry x="-2560" y="950" width="375.75" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-255" value="&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Mean Tardiness: \(\frac{1}{n}\sum_{i=1}^{n}\max\{C_i - d_i, 0\}\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Mean Flowtime: \(\frac{1}{n}\sum_{i=1}^{n}(C_i - r_i)\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Maximum Tardiness: \(\max_{i\in\{1,2,...,n\}}\max\{C_i - d_i, 0\}\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Maximum Flowtime: \(\max_{i\in\{1,2,...,n\}}\{C_i - r_i\}\)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-2542.13" y="965" width="412.13" height="125" as="geometry" />
+          <mxGeometry x="-2560" y="955" width="412.13" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
