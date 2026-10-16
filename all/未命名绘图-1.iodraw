@@ -401,7 +401,7 @@
         <mxCell id="0JFpaF27t4L-leoYE2ln-105" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Tugboats&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2774" y="418" width="70" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-220" value="" style="group;labelBackgroundColor=none;strokeColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="gdlHOr32soQHPAhIjgJu-220" value="" style="group;fillColor=#bac8d3;strokeColor=#23445d;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3220" y="696.85" width="581.8000000000002" height="381.5999999999999" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-220">
@@ -590,7 +590,7 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-218" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Partical Cantt Chart of Scheduling Plan&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-2512.13" y="656.85" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-224" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="gdlHOr32soQHPAhIjgJu-224" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2560" y="698" width="375.75" height="175.29999999999995" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=#333333;strokeColor=none;fillStyle=zigzag-line;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-224">
@@ -701,7 +701,7 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-252" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-2560" y="950" width="375.75" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-255" value="&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Mean Tardiness: \(\frac{1}{n}\sum_{i=1}^{n}\max\{C_i - d_i, 0\}\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Mean Flowtime: \(\frac{1}{n}\sum_{i=1}^{n}(C_i - r_i)\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Maximum Tardiness: \(\max_{i\in\{1,2,...,n\}}\max\{C_i - d_i, 0\}\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Maximum Flowtime: \(\max_{i\in\{1,2,...,n\}}\{C_i - r_i\}\)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=left;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="gdlHOr32soQHPAhIjgJu-255" value="&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Mean Tardiness: \(\frac{1}{n}\sum_{i=1}^{n}\max\{C_i - d_i, 0\}\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Mean Flowtime: \(\frac{1}{n}\sum_{i=1}^{n}(C_i - r_i)\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Maximum Tardiness: \(\max_{i\in\{1,2,...,n\}}\max\{C_i - d_i, 0\}\)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Maximum Flowtime: \(\max_{i\in\{1,2,...,n\}}\{C_i - r_i\}\)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=left;" vertex="1" parent="1">
           <mxGeometry x="-2560" y="955" width="412.13" height="125" as="geometry" />
         </mxCell>
       </root>
