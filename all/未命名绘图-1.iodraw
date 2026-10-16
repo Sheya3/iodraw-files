@@ -702,7 +702,7 @@
           <mxGeometry x="-2560" y="950" width="375.75" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-255" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Mean Flowtime:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2540" y="970" width="120" height="45.6" as="geometry" />
+          <mxGeometry x="-2540" y="970" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
