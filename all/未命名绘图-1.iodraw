@@ -439,7 +439,7 @@
           <mxGeometry x="-3100" y="899.6" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-132" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ready Operations&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-3210" y="1016.6" width="110" height="40" as="geometry" />
+          <mxGeometry x="-3225" y="1016.6" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-135" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Unknown Jobs&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-3207.5" y="710" width="110" height="40" as="geometry" />
@@ -505,7 +505,7 @@
           <mxGeometry x="-2904.5" y="977.5" width="45" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-162" value="&lt;i&gt;O&lt;sub&gt;23&lt;/sub&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-3185" y="911" width="45" height="22" as="geometry" />
+          <mxGeometry x="-3185" y="948.4" width="45" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-163" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;...&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=27;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3210" y="948.4" width="95" height="30" as="geometry" />
