@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="EN5jJLvCOs70Ou6hMQfv">
-    <mxGraphModel dx="5119" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="5541" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,7 +588,7 @@
           <mxGeometry x="431.8000000000002" y="341.5999999999999" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-218" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Partical Cantt Chart of Scheduling Plan&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2560" y="750" width="280" height="40" as="geometry" />
+          <mxGeometry x="-2512.12" y="750" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-224" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2560" y="800" width="375.75" height="175.29999999999995" as="geometry" />
