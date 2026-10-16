@@ -640,7 +640,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-126" value="Sequencing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-2886" y="760" width="109" height="26" as="geometry" />
+          <mxGeometry x="-2885" y="754" width="105" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
