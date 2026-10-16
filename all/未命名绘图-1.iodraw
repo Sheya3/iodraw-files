@@ -522,7 +522,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-217" value="Next Operation be ready" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;" vertex="1" connectable="0" parent="gdlHOr32soQHPAhIjgJu-216">
+        <mxCell id="gdlHOr32soQHPAhIjgJu-217" value="Next Operation be Ready" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;" vertex="1" connectable="0" parent="gdlHOr32soQHPAhIjgJu-216">
           <mxGeometry x="-0.2724" y="-4" relative="1" as="geometry">
             <mxPoint x="11" y="17" as="offset" />
           </mxGeometry>
