@@ -439,9 +439,6 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-86" value="Routing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-3100" y="899.6" width="100" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-126" value="Sequencing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-2926.5" y="744" width="109" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-132" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ready Operations&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-3210" y="1016.6" width="110" height="40" as="geometry" />
         </mxCell>
@@ -623,11 +620,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-205" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gdlHOr32soQHPAhIjgJu-203" target="gdlHOr32soQHPAhIjgJu-150">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gdlHOr32soQHPAhIjgJu-205" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gdlHOr32soQHPAhIjgJu-126" target="gdlHOr32soQHPAhIjgJu-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2733" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-203" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-2961" y="814" width="57" height="121.12" as="geometry" />
+        </mxCell>
+        <mxCell id="gdlHOr32soQHPAhIjgJu-206" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gdlHOr32soQHPAhIjgJu-203" target="gdlHOr32soQHPAhIjgJu-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2932" y="814" as="sourcePoint" />
+            <mxPoint x="-2733" y="818" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2932" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdlHOr32soQHPAhIjgJu-126" value="Sequencing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-2886" y="760" width="109" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
