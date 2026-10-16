@@ -644,16 +644,6 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-126" value="Sequencing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-2885" y="754" width="115" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-208" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gdlHOr32soQHPAhIjgJu-149">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2769" y="771" as="sourcePoint" />
-            <mxPoint x="-2723" y="828" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-2760" y="771" />
-              <mxPoint x="-2730" y="770" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
