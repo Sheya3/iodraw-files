@@ -643,9 +643,9 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-126" value="Sequencing Rule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8b8b8;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-2904.5" y="754" width="115" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-211" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.313;exitDx=0;exitDy=0;entryX=0.001;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="gdlHOr32soQHPAhIjgJu-72">
+        <mxCell id="gdlHOr32soQHPAhIjgJu-211" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2788.88" y="846.5" as="sourcePoint" />
+            <mxPoint x="-2770" y="810" as="sourcePoint" />
             <mxPoint x="-2747.88" y="910.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2769" y="847" />
