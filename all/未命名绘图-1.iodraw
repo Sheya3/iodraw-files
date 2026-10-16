@@ -439,7 +439,7 @@
           <mxGeometry x="138.5" y="162.60000000000002" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-132" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ready Operations&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-220">
-          <mxGeometry x="13.5" y="306.6" width="110" height="40" as="geometry" />
+          <mxGeometry x="28.5" y="310.6" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdlHOr32soQHPAhIjgJu-135" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Unknown Jobs&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;fontSize=15;" vertex="1" parent="gdlHOr32soQHPAhIjgJu-220">
           <mxGeometry x="31" width="110" height="40" as="geometry" />
@@ -683,9 +683,9 @@
         <mxCell id="gdlHOr32soQHPAhIjgJu-225" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;An Example of decision process of MRDFJSS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3094.1" y="656.85" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdlHOr32soQHPAhIjgJu-226" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
+        <mxCell id="gdlHOr32soQHPAhIjgJu-226" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2620" y="910" as="sourcePoint" />
+            <mxPoint x="-2620" y="860" as="sourcePoint" />
             <mxPoint x="-2570" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
