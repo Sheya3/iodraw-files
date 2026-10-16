@@ -695,6 +695,9 @@
             <mxPoint x="-2383" y="919" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gdlHOr32soQHPAhIjgJu-251" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Partical Cantt Chart of Scheduling Plan&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-2502.13" y="666.85" width="280" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
