@@ -31,33 +31,6 @@
         <mxCell id="REXKj82bO2p4-Z6b6AG--9" value="Search Space" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="125" y="140" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="REXKj82bO2p4-Z6b6AG--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="REXKj82bO2p4-Z6b6AG--5" target="REXKj82bO2p4-Z6b6AG--5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="REXKj82bO2p4-Z6b6AG--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="281" y="231" as="sourcePoint" />
-            <mxPoint x="281" y="239" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="REXKj82bO2p4-Z6b6AG--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="291" y="241" as="sourcePoint" />
-            <mxPoint x="291" y="249" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="REXKj82bO2p4-Z6b6AG--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="301" y="251" as="sourcePoint" />
-            <mxPoint x="301" y="259" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="REXKj82bO2p4-Z6b6AG--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311" y="261" as="sourcePoint" />
-            <mxPoint x="311" y="269" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
