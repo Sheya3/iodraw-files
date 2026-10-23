@@ -13,7 +13,7 @@
         <mxCell id="zkm-KRMCC8gamkoF6w9s-2" value="-" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="zkm-KRMCC8gamkoF6w9s-16" vertex="1">
           <mxGeometry x="30.168900804289542" y="38.4375" width="25.625" height="25.625" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-3" value="avgNIQ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="zkm-KRMCC8gamkoF6w9s-16" vertex="1">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-3" value="avgNIQ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="zkm-KRMCC8gamkoF6w9s-16" vertex="1">
           <mxGeometry y="76.875" width="38.92761394101876" height="25.625" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-4" value="MWT" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="zkm-KRMCC8gamkoF6w9s-16" vertex="1">
