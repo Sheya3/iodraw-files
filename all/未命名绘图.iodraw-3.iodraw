@@ -91,15 +91,6 @@
         <mxCell id="zkm-KRMCC8gamkoF6w9s-27" value="R3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#77bb41;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
           <mxGeometry x="93.75" y="40.611111111111114" width="28.125" height="19.11111111111111" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-28" value="R4" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#96d35f;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
-          <mxGeometry x="18.75" y="71.1888888888889" width="28.125" height="19.11111111111111" as="geometry" />
-        </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-29" value="R5" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#b1dd8c;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
-          <mxGeometry x="56.25" y="71.1888888888889" width="28.125" height="19.11111111111111" as="geometry" />
-        </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-30" value="R6" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#e0edd4;strokeColor=#000000;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
-          <mxGeometry x="93.75" y="71.1888888888889" width="28.125" height="19.11111111111111" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
