@@ -105,6 +105,24 @@
         <mxCell id="l3JRKK1YZF9m7WNN7_CR-29" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; display: inline !important; float: none;&quot;&gt;Select resource with highest priority&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="300" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="l3JRKK1YZF9m7WNN7_CR-30" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1290" y="390" width="150" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l3JRKK1YZF9m7WNN7_CR-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="l3JRKK1YZF9m7WNN7_CR-30">
+          <mxGeometry y="6.211111111111111" width="150" height="101.28888888888889" as="geometry" />
+        </mxCell>
+        <mxCell id="l3JRKK1YZF9m7WNN7_CR-32" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; float: none; display: inline !important;&quot;&gt;Subset&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="l3JRKK1YZF9m7WNN7_CR-30">
+          <mxGeometry width="46.875" height="35.833333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="l3JRKK1YZF9m7WNN7_CR-33" value="R1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#4f7a28;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="l3JRKK1YZF9m7WNN7_CR-30">
+          <mxGeometry x="18.75" y="40.611111111111114" width="28.125" height="19.11111111111111" as="geometry" />
+        </mxCell>
+        <mxCell id="l3JRKK1YZF9m7WNN7_CR-34" value="R2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#669c35;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="l3JRKK1YZF9m7WNN7_CR-30">
+          <mxGeometry x="56.25" y="40.611111111111114" width="28.125" height="19.11111111111111" as="geometry" />
+        </mxCell>
+        <mxCell id="l3JRKK1YZF9m7WNN7_CR-35" value="R3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#77bb41;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="l3JRKK1YZF9m7WNN7_CR-30">
+          <mxGeometry x="93.75" y="40.611111111111114" width="28.125" height="19.11111111111111" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
