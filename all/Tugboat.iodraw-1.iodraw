@@ -513,7 +513,6 @@
               <mxPoint x="-260" y="762" />
               <mxPoint x="-240" y="762" />
               <mxPoint x="-240" y="782" />
-              <mxPoint x="-166" y="782" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -642,7 +641,7 @@
           <mxGeometry x="-241" y="782" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JffX4iDNezsegKIh8OQD-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="JffX4iDNezsegKIh8OQD-37">
-          <mxGeometry y="-10" width="150" height="100" as="geometry" />
+          <mxGeometry width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JffX4iDNezsegKIh8OQD-39" value="Crossover" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="JffX4iDNezsegKIh8OQD-37">
           <mxGeometry x="25" y="10" width="100" height="20" as="geometry" />
