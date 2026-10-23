@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-16" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-16" value="" style="group;fontSize=14;strokeWidth=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1570" y="230" width="121" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-1" value="+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-16">
@@ -46,7 +46,7 @@
             <mxPoint x="108.02412868632707" y="128.125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-21" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-21" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1340" y="225" width="150" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-21">
@@ -73,7 +73,7 @@
         <mxCell id="zkm-KRMCC8gamkoF6w9s-20" value="R6" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#e0edd4;strokeColor=#000000;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-21">
           <mxGeometry x="93.75" y="71.1888888888889" width="28.125" height="19.11111111111111" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-22" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-22" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1070" y="225" width="150" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
@@ -91,18 +91,18 @@
         <mxCell id="zkm-KRMCC8gamkoF6w9s-27" value="R3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#77bb41;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
           <mxGeometry x="93.75" y="40.611111111111114" width="28.125" height="19.11111111111111" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zkm-KRMCC8gamkoF6w9s-11">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="zkm-KRMCC8gamkoF6w9s-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1440" y="282" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-32" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; text-align: center;&quot;&gt;Calculate priority value and sort&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-32" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; text-align: center;&quot;&gt;Calculate priority value and sort&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1460" y="300" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkm-KRMCC8gamkoF6w9s-11" target="zkm-KRMCC8gamkoF6w9s-23">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zkm-KRMCC8gamkoF6w9s-11" target="zkm-KRMCC8gamkoF6w9s-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-34" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; display: inline !important; float: none;&quot;&gt;Select resource with highest priority&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-34" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; display: inline !important; float: none;&quot;&gt;Select resource with highest priority&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="300" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
