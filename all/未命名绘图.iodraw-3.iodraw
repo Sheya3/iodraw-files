@@ -64,10 +64,10 @@
         <mxCell id="zkm-KRMCC8gamkoF6w9s-18" value="R4" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="292" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-19" value="R2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-19" value="R5" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1330" y="292" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-20" value="R3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-20" value="R6" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="292" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
