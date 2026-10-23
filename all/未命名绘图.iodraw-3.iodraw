@@ -74,7 +74,7 @@
           <mxGeometry x="93.75" y="71.1888888888889" width="28.125" height="19.11111111111111" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1160" y="224" width="150" height="107.5" as="geometry" />
+          <mxGeometry x="-1140" y="225" width="150" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
           <mxGeometry y="6.211111111111111" width="150" height="101.28888888888889" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-27" value="R3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#77bb41;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
           <mxGeometry x="93.75" y="40.611111111111114" width="28.125" height="19.11111111111111" as="geometry" />
+        </mxCell>
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkm-KRMCC8gamkoF6w9s-5" target="zkm-KRMCC8gamkoF6w9s-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
