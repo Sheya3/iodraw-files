@@ -105,8 +105,13 @@
         <mxCell id="zkm-KRMCC8gamkoF6w9s-34" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; display: inline !important; float: none;&quot;&gt;Select resource with highest priority&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1180" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6t6B9Ze_yCjzwlaAAlyy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkm-KRMCC8gamkoF6w9s-23" target="zkm-KRMCC8gamkoF6w9s-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6t6B9Ze_yCjzwlaAAlyy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zkm-KRMCC8gamkoF6w9s-23" target="zkm-KRMCC8gamkoF6w9s-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-995" y="370" />
+              <mxPoint x="-1265" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
