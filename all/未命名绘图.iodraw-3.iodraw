@@ -55,7 +55,7 @@
         <mxCell id="zkm-KRMCC8gamkoF6w9s-12" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; float: none; display: inline !important;&quot;&gt;Candidates&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-21">
           <mxGeometry width="50" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-13" value="R1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-21">
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-13" value="R1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-21">
           <mxGeometry x="20" y="42.5" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-14" value="R2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#77bb41;strokeColor=#82b366;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-21">
