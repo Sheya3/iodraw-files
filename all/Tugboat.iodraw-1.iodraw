@@ -519,7 +519,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JffX4iDNezsegKIh8OQD-12" value="Interation Stop ?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-236" y="894.5" width="140" height="55" as="geometry" />
+          <mxGeometry x="-236" y="894.5" width="140" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="JffX4iDNezsegKIh8OQD-13" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-385" y="907" width="60" height="30" as="geometry" />
