@@ -91,8 +91,10 @@
         <mxCell id="zkm-KRMCC8gamkoF6w9s-27" value="R3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;fillColor=#77bb41;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="zkm-KRMCC8gamkoF6w9s-22">
           <mxGeometry x="93.75" y="40.611111111111114" width="28.125" height="19.11111111111111" as="geometry" />
         </mxCell>
-        <mxCell id="zkm-KRMCC8gamkoF6w9s-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkm-KRMCC8gamkoF6w9s-5" target="zkm-KRMCC8gamkoF6w9s-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zkm-KRMCC8gamkoF6w9s-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1440" y="282" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
