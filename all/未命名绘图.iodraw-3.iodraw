@@ -11,7 +11,7 @@
           <mxGeometry x="-1390" y="217.5" width="50" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-13" value="R1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1380" y="255" width="30" height="20" as="geometry" />
+          <mxGeometry x="-1370" y="260" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zkm-KRMCC8gamkoF6w9s-14" value="R2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1330" y="260" width="30" height="20" as="geometry" />
@@ -60,6 +60,15 @@
             <mxPoint x="43.14477211796247" y="192.1875" as="sourcePoint" />
             <mxPoint x="108.02412868632707" y="128.125" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-18" value="R1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="270" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-19" value="R2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="270" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zkm-KRMCC8gamkoF6w9s-20" value="R3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="270" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
